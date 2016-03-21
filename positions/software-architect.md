@@ -2,7 +2,7 @@
 
 ### Job Description
 
-We're looking for a strong PHP Software Architect to perform as Tech Lead acting as a Senior PHP Developer to help us grow and evolve as both team and company.
+We're looking for a strong **PHP Software Architect** to perform as **Tech Lead acting** as a **Senior PHP Developer** to help us grow and evolve as both team and company.
 
 We're a small team that want to acheive great things, we encourage the creativity and ideas and also want to be a edge-tech company by having the best technoloy in place, ideas, process and more.
 
