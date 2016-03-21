@@ -10,8 +10,8 @@ Our team of over 60 employees hail from more than 20 countries and share a commo
 
 ## Choose one of the two available tests:
 
-* [**cash-machine**](null)
-* [**group-by-interval**](null)
+* [**cash-machine**](https://github.com/URBANARA/want-to-be-urbanara/blob/master/tests/cash-machine.md)
+* [**group-by-interval**](https://github.com/URBANARA/want-to-be-urbanara/blob/master/tests/group-by-interval.md)
 
 ## Pull request your test
 
