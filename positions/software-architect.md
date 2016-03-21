@@ -21,6 +21,8 @@ We're a small team that want to acheive great things, we encourage the creativit
 - Analytic Vision
 - PHP 5+ (we're moving to PHP 7 so this would be a plus)
 - Javascript (strong and well structured javascript knowledge)
+- Design Patterns
+- Object Oriented development
 
 > Role specific 
 
