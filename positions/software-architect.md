@@ -11,27 +11,37 @@ We're a small team that want to acheive great things, we encourage the creativit
 
 ### Requirements
 
+> Position specific
+
 - Test Driven Development
 - Functional Testing
 - Project orientation 
 - Knowledge in Software Architect
 - Data Modeling
 - Analytic Vision
-- Excelent logic reasoning and problem resolution ability
 - PHP 5+ (we're moving to PHP 7 so this would be a plus)
 - Javascript (strong and well structured javascript knowledge)
+
+> Role specific 
+
+- RESTful Applications
+- Test Driven Development
+- Functional Testing
+- Project orientation 
+- Software Architecture
+- Analytic Vision
 - Project standards in general
 - Restful applications
 - Good practices
 - Clean Code
 - Team play
 - English (essential)
-- Distributed Aplications (e.g. Gearman and architecture to use it)
 - Agile Development
-- 6 years or more than it of experience
+- Problem Solver
+- 6 years or more of experience
 
 
-### Desirable
+### Diferential
 
 - Symfony2
 - Doctrine2
@@ -43,6 +53,7 @@ We're a small team that want to acheive great things, we encourage the creativit
 - Redis
 - RabitMQ
 - Gearman
+- Tech-Lead experience
 
 # How to Apply
 
