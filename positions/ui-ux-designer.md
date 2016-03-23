@@ -23,9 +23,11 @@ without the sky high price tags”.
 
 ### The role - you will:
 
-- Be responsible... **TBD**
-- Work with... **Graphics** (to maintain the brand look)
-- Report to... **TBD**
+- Provide designs, mockups, wireframes, sketches to our Software Development team and help
+  them implement the best UX on our customer facing sites as well as internal tools.
+- Work with our Graphics & Imagery departments to maintain URBANARA's look and feel.
+- Be a member of the Software Product team and important participant in development of
+  our apps.
 
 ### Your profile - you will have:
 
@@ -33,13 +35,15 @@ without the sky high price tags”.
   experience and delivering results
 - A university degree - preferably in experience design or graphical design
 - Proficiency in using tools from Adobe Creative Suite
+- Worked in software product department before and you are aware of agile
+  softwate development methodologies
 - Experience with HTML and CSS; JavaScript is an advantage
-- **TBA**
 
 ### You are...
 
+- Collaborative and communicative person who likes to share and discuss ideas
 - Fluent in English; German is a plus
-- **TBA**
+- **EXTEND**
 
 ### We offer:
 
