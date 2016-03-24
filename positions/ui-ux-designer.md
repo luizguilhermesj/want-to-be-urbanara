@@ -31,19 +31,12 @@ without the sky high price tags”.
 
 ### Your profile - you will have:
 
-- 3-5 years in UI/UX design with a proven track record of improving the user
-  experience and delivering results
-- A university degree - preferably in experience design or graphical design
-- Proficiency in using tools from Adobe Creative Suite
-- Worked in software product department before and you are aware of agile
-  softwate development methodologies
-- Experience with HTML and CSS; JavaScript is an advantage
-
-### You are...
-
-- Collaborative and communicative person who likes to share and discuss ideas
+- an Expert in this field - 5+ years in UI/UX design with a proven track record of improving the user experience and delivering results
+- Experienced working in software product department before and being aware of agile software development methodologies
+- Proficient in using tools from Adobe Creative Suite
+- Excellent skills and experience in Information Architecture
+- A collaborative and communicative person who likes to share and discuss ideas
 - Fluent in English; German is a plus
-- **EXTEND**
 
 ### We offer:
 
