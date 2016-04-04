@@ -1,0 +1,12 @@
+{
+    "name": "root/php-cash-machine",
+    "authors": [
+        {
+            "name": "Luiz Guilherme",
+            "email": "luizguilherme@progiro.com.br"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    }
+}
