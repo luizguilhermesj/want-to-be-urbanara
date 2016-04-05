@@ -16,7 +16,7 @@ class CashMachine
 
     public function withdraw($requestedValue, $notes = null)
     {
-        if (is_null($requestedValue)) {
+        if (is_null($requestedValue) || $requestedValue == 0) {
             return [];
         }
 

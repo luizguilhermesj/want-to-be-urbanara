@@ -13,6 +13,15 @@ class CashMachineTest extends PHPUnit_Framework_TestCase
         $this->assertEquals($expected, $actual);
     }
 
+    public function testShouldReturnEmptyWhenZeroRequested()
+    {
+        $cashMachine = new CashMachine();
+        $expected = [];
+        $actual = $cashMachine->withdraw(0);
+
+        $this->assertEquals($expected, $actual);
+    }
+
     public function testShouldWithdrawOneNoteOfTen()
     {
         $cashMachine = new CashMachine();
