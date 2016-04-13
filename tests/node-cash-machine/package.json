@@ -1,0 +1,12 @@
+{
+  "name": "node-cash-machine",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "Luiz Guilherme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
